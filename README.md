@@ -1,2 +1,0 @@
-# vuurwerkshop
-vuurwerk
