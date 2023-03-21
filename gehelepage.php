@@ -29,5 +29,5 @@
     </li>
 </ul>
     <img src="vuurwerk.jpg" title="back" id="back" alt="back"> 
-</body> 
+</body>
 </html>
